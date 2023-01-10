@@ -55,7 +55,7 @@ After you have completed these steps, you should have a fully functional room re
 
 
 ## Project Status
-Project is: _in progress_.
+Project is: _Complete_.
 
 
 ## Room for Improvement
