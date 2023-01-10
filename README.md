@@ -52,7 +52,7 @@ How to install / setup one's local environment / get started with the project.--
 6.Test the application to ensure it is working as expected.
 After you have completed these steps, you should have a fully functional room reservation application using Vue.js, ASP.NET Core Web API, and Microsoft SQL Server.
 
-## Usage
+
 
 ## Project Status
 Project is: _in progress_.
