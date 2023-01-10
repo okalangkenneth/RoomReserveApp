@@ -5,13 +5,12 @@
 
 ## Description
 
-In this project I developed a room reservation app using Vue.js for the front-end, ASP.NET Core Web API for the back-end, and Microsoft SQL Server for the database. The app allows users to search for and book rooms at hotels and other types of accommodations, and includes features such as browsing listings, viewing room details, and making secure online payments. The app is powered by a reliable and efficient back-end and database and has the potential to revolutionize the way people book rooms for their travels. 
+In this project I developed a room reservation app using Vue.js for the front-end, ASP.NET Core Web API for the back-end, and Microsoft SQL Server for the database. The app allows users to search for and book rooms at hotels and other types of accommodations, and includes features such as browsing listings, viewing room details. The app is powered by a reliable and efficient back-end and database and has the potential to revolutionize the way people book rooms for their travels. 
 
 ## Table of Contents
 * [General Info](#general-info)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -45,9 +44,13 @@ In this project I developed a room reservation app using Vue.js for the front-en
 <!--Project requirements/dependencies list. A requirements.txt or a Pipfile.lock file perhaps and its location.
 
 How to install / setup one's local environment / get started with the project.-->
-### Create project
-
-#### Web API
+1.Set up a database in Microsoft SQL Server to store the room reservation data. You can use SQL scripts to create the necessary tables and relationships.
+2.Create an ASP.NET Core Web API project in Visual Studio. This will be used to expose the data from the database to the front-end Vue.js application.
+3.Configure the Web API to connect to the database and perform CRUD operations on the room reservation data. You can use Entity Framework Core to map the database tables to .NET objects and perform the database operations.
+4.Create a Vue.js application to consume the Web API endpoints and display the data to the user. You can use Vue Router to create a single-page application with multiple routes.
+5.Include the necessary dependencies in the project, such as Vue.js, Vue Router, and Bootstrap (for styling). Include them from CDN links in your HTML file.
+6.Test the application to ensure it is working as expected.
+After you have completed these steps, you should have a fully functional room reservation application using Vue.js, ASP.NET Core Web API, and Microsoft SQL Server.
 
 ## Usage
 
