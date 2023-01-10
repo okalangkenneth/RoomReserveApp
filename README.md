@@ -1,6 +1,6 @@
 # RoomReserveApp
 
-### A practical approach to consuming a RESTFul Web service using Vue.js
+### Combining the Power of Vue.js, SQL Server, and ASP.NET Core for Web Development
 
 
 ## Description
